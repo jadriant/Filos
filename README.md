@@ -23,11 +23,11 @@ VS Code: \
 
 IntelliJ IDEA Ultimate: \
 5. On the top left, click on file -> Project Structure...\
-6. In Project Structure...:\
-    - Modules \ 
-    - Right-click on the specified folders to their respective type \ 
-        a. src/main/java      -->  Sources \
-        b. src/test/java      -->  Tests \
-        c. src/main/resources -->  Resources \
-    - ![Screenshot](Instructions.png)\
+6. In Project Structure...: <br />
+    - Modules <br />
+    - Right-click on the specified folders to their respective type <br />
+        a. src/main/java      -->  Sources <br />
+        b. src/test/java      -->  Tests <br />
+        c. src/main/resources -->  Resources <br />
+    - ![Screenshot](Instructions.png) <br />
 7. Run SpringBoot by clicking on the "run" icon on the top right 
