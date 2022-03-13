@@ -21,7 +21,7 @@ VS Code: \
     - 'npm install' \
     - 'npm start' 
 
-IntelliJ IDEA Ultimate:
+IntelliJ IDEA Ultimate: \
 5. On the top left, click on file -> Project Structure...
 6. In Project Structure...:
     - Modules 
