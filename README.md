@@ -26,8 +26,8 @@ IntelliJ IDEA Ultimate:
 6. In Project Structure...:
     - Modules 
     - Right-click on the specified folders to their respective type 
-        a. src/main/java      -->  Sources
-        b. src/test/java      -->  Tests
-        c. src/main/resources -->  Resources
+        - a. src/main/java      -->  Sources
+        - b. src/test/java      -->  Tests
+        - c. src/main/resources -->  Resources
     - ![Screenshot](Instructions.png)
 7. Run SpringBoot by clicking on the "run" icon on the top right 
