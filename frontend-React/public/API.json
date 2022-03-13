@@ -1,0 +1,33 @@
+[
+    {
+        "name": "CSCI 103: Introduction to Programming",
+        "id": "csci103",
+        "studentsEnrolled": [
+            "guadalupe@usc.edu"
+        ],
+        "studentCount": 1,
+        "professor": "Andrew Goodney",
+        "location": "SGM 101",
+        "taList": null
+    },
+    {
+        "name": "CSCI 270: Introduction to Algorithms and Theory of Computing",
+        "id": "csci270",
+        "studentsEnrolled": [],
+        "studentCount": 0,
+        "professor": "Shaddin Dughmi",
+        "location": "SGM 101",
+        "taList": [
+            "Neel Patel"
+        ]
+    },
+    {
+        "name": "CSCI 104: Data Stuctures and Object Oriented Design",
+        "id": "csci104",
+        "studentsEnrolled": null,
+        "studentCount": 0,
+        "professor": "Aaron Cote",
+        "location": "THH 101",
+        "taList": null
+    }
+]

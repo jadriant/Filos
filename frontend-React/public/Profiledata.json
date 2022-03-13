@@ -1,0 +1,15 @@
+{
+    "fullname": "Name Last-Name",
+    "email": "email@usc.edu",
+    "dob": "CS103",
+    "major": "CSBA",
+    "year": "Freshie",
+    "currentClasses": [
+        "CS104",
+        "CS201"
+    ],
+    "interests": "one or more interests in one input",
+    "linkedin": "@linkedin",
+    "insta": "@insta",
+    "snap": "@snap"
+}
