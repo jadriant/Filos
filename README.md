@@ -16,9 +16,9 @@ INSTRUCTION
 2. Open backend-JavaSpring_Firebase folder in VSCode
 3. Open frontend-React folder in IntelliJ IDEA Ultimate
     
-VS Code: 
-4. On VS Code's terminal, enter these commands:
-    - 'npm install' 
+VS Code: \
+4. On VS Code's terminal, enter these commands: \
+    - 'npm install' \
     - 'npm start' 
 
 IntelliJ IDEA Ultimate:
