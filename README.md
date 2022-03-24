@@ -6,7 +6,7 @@ SOFTWARE
 --------
 This program requires the installation of two programs: \
     a. VS Code \
-    b. IntelliJ IDEA Ultimate (paid version)(free for USC Students)
+    b. IntelliJ IDEA Ultimate 
 
 
 -----------
