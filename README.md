@@ -4,8 +4,8 @@ Instructions on How to Run Filos on Your Machine
 --------
 SOFTWARE
 --------
-* This program requires the installation of two programs:
-    a. VS Code 
+* This program requires the installation of two programs: \
+    a. VS Code \
     b. IntelliJ IDEA Ultimate (paid version)(free for USC Students)
 
 
