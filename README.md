@@ -7,6 +7,7 @@ SOFTWARE
 This program requires the installation of two programs: \
     a. VS Code \
     b. IntelliJ IDEA Ultimate 
+    c. Node Version 14 
 
 
 -----------
