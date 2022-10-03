@@ -13,8 +13,8 @@ This program requires the installation of two programs: \
 INSTRUCTION
 -----------
 1. Unzip folder
-2. Open backend-JavaSpring_Firebase folder in VSCode
-3. Open frontend-React folder in IntelliJ IDEA Ultimate
+2. Open backend-JavaSpring_Firebase folder in IntelliJ IDEA Ultimate
+3. Open frontend-React folder in VSCode
     
 VS Code: \
 4. On VS Code's terminal, enter these commands: \
